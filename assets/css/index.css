@@ -3,6 +3,7 @@
     flex-direction: column;
     background: linear-gradient(#fefefe, #343484);
     height: 100vh;
+    justify-content: center;
 }
 
 .login-title {
